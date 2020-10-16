@@ -1,7 +1,5 @@
 absl-py==0.10.0
 alabaster==0.7.12
-anvil==0.0.2
-anvil-uplink==0.3.33
 argon2-cffi==20.1.0
 astunparse==1.6.3
 async-generator==1.10
@@ -25,8 +23,6 @@ docutils==0.16
 entrypoints==0.3
 future==0.18.2
 gast==0.3.3
-google-auth==1.21.1
-google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.32.0
 h5py==2.10.0
@@ -94,7 +90,6 @@ rsa==4.6
 s3transfer==0.3.3
 scikit-image==0.17.2
 scipy==1.5.2
-Send2Trash==1.5.0
 Shapely==1.7.1
 six==1.15.0
 snowballstemmer==2.0.0
@@ -126,4 +121,3 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 wrapt==1.12.1
 ws4py==0.5.1
-zipp==3.1.0
